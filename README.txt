@@ -1,3 +1,6 @@
+## Disclaimer ##
+This project was completed alongside Alex Nguyen. It was re-uploaded from SFU-gitlab to github because the original repository also contained completed homework assignemnts. There are missing files in this project due to file sizes but should work for the most part.
+
 ## Contents ##
 data/"x": Contains all our data for testing.
 
