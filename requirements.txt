@@ -1,0 +1,7 @@
+numpy
+notebook
+pandas
+nltk
+sklearn
+keras
+tensorflow
